@@ -1,0 +1,9 @@
+Package:HHH 
+Name:  HHH 
+Depends: mobilesubstrate
+Version: V1
+Architecture: iphoneos-arm
+Description: HHH NAME PROJECT 
+Maintainer: DrDev
+Author: DrDev
+Section: Tweaks
